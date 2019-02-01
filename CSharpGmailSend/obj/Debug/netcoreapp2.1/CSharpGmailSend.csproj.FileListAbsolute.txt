@@ -1,0 +1,11 @@
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\bin\Debug\netcoreapp2.1\CSharpGmailSend.deps.json
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\bin\Debug\netcoreapp2.1\CSharpGmailSend.runtimeconfig.json
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\bin\Debug\netcoreapp2.1\CSharpGmailSend.runtimeconfig.dev.json
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\bin\Debug\netcoreapp2.1\CSharpGmailSend.dll
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.csprojAssemblyReference.cache
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.csproj.CoreCompileInputs.cache
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.AssemblyInfoInputs.cache
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.AssemblyInfo.cs
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\bin\Debug\netcoreapp2.1\CSharpGmailSend.pdb
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.dll
+D:\GmailSendCSharp\CSharpGmailSend\CSharpGmailSend\obj\Debug\netcoreapp2.1\CSharpGmailSend.pdb
